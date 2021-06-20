@@ -9,7 +9,7 @@ function podeSubir(altura, acompanhado) {
     }
 }
 podeSubir(1.20, true);
-podeSubir(1.20, false);
-
+podeSubir(1.60, false);
+podeSubir(1.30, true)
 
 
